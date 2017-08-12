@@ -21,7 +21,11 @@ http://p3igkncehackjtib.onion/ – TorProject Media
 http://kbhpodhnfxl3clb4.onion – Tor Search
 http://cipollatnumrrahd.onion/ – Cipolla 2.0 (Italian)
 http://dppmfxaacucguzpc.onion/ – TorDir – One of the oldest link lists on Tor
-https://facebookcorewwwi.onion/ - Facebook
+https://facebookcorewwwi.onion/ (facebookcorewwwi.onion) - Facebook
+
+
+Search Engines
+b7cxf4dkdsko6ah2.onion/tor/ - MetaGer
 
 Marketplace Financial
 http://torbrokerge7zxgq.onion/ – TorBroker – Trade securities anonymously with bitcoin, currently supports nearly 1000 stocks and ETFs
